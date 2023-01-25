@@ -16,4 +16,4 @@ Esse projeto foi feito para aplicação prática de algumas horinhas de estudos.
 
 **Gostou do meu trabalho?**
 
-![perrito puss in boots](https://media.giphy.com/media/YN9WiZM2wQLclskyrD/giphy-downsized-large.gif)
+![perrito puss in boots](https://media.giphy.com/media/LCl42IYRY7GMf98ohR/giphy.gif)
