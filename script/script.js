@@ -1,15 +1,15 @@
+const INITIAL_TIME_IN_SECONDS = 25 * 60;
+let TIME_IN_SECONDS = INITIAL_TIME_IN_SECONDS;
+let TIMER = null;                
+
 const playButton = document.getElementById('play');
 const pauseButton = document.getElementById('pause');
 const resetButton = document.getElementById('reset');
-let TIMER = null;                
 
 
 playButton.addEventListener('click', startCounter);
 pauseButton.addEventListener('click', pauseCounter);
 resetButton.addEventListener('click', resetCounter);
-
-const INITIAL_TIME_IN_SECONDS = 25 * 60;
-let TIME_IN_SECONDS = INITIAL_TIME_IN_SECONDS;
 
 updateDom();
 
@@ -37,3 +37,4 @@ function updateDom() {
     const seconds = TIME_IN_SECONDS % 60;
     document.getElementById('sec').innerHTML = String(seconds).padStart(2, 0);
 }
+
