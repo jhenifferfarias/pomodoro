@@ -7,7 +7,7 @@ Timer simples feito com html, css e javascript para contagem de tempo regressiva
 
 É fixado o tempo de 25 minutos (projetos futuros permitirão que esse tempo seja escolhido pelo usuário) no qual o usuário pode iniciar, pausar ou resetar esse tempo para que ele volte no início.
 
-<iframe src="https://giphy.com/embed/b9EpzFDBGJBCK7oF5C" width="480" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+![pomodoro timer gif](https://media.giphy.com/media/b9EpzFDBGJBCK7oF5C/giphy.gif)
 
 Nesse GIF podemos ver uma breve explicação do que o timer é capaz de fazer.
 
